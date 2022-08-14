@@ -1,16 +1,16 @@
 {
-    "version": "2.16",
+    "version": "2.18",
     "description": "Biber is a sophisticated bibliography processing backend for the LaTeX biblatex package.",
     "homepage": "http://biblatex-biber.sourceforge.net/",
     "license": "Artistic-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/2.16/binaries/Windows/biber-MSWIN64.zip",
-            "hash": "sha1:e133ccd04c6b753fe72d73b9cfa42db1942e20e2",
+            "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Windows/biber-MSWIN64.zip",
+            "hash": "sha1:4d9bdf0476e457238f51f109069ec3ffddc32675"
         },
         "32bit": {
-            "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/2.16/binaries/Windows/biber-MSWIN32.zip",
-            "hash": "sha1:afda75b78ae9b71d69ad5d9fb176f8f2bc69479a",
+            "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Windows/biber-MSWIN32.zip",
+            "hash": "sha1:26cf4d41c64bbf93cabaa7b6bf3292b067c7adb7"
         }
     },
     "bin": "biber.exe",
@@ -22,11 +22,11 @@
         "architecture": {
             "64bit": {
                 "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Windows/biber-MSWIN64.zip",
-                "hash": "sha1:4d9bdf0476e457238f51f109069ec3ffddc32675",
+                "hash": "sha1:4d9bdf0476e457238f51f109069ec3ffddc32675"
             },
             "32bit": {
                 "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Windows/biber-MSWIN32.zip",
-                "hash": "sha1:26cf4d41c64bbf93cabaa7b6bf3292b067c7adb7",
+                "hash": "sha1:26cf4d41c64bbf93cabaa7b6bf3292b067c7adb7"
             }
         }
     }
