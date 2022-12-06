@@ -1,16 +1,16 @@
 {
-    "version": "2.18",
+    "version": "2.17",
     "description": "Biber is a sophisticated bibliography processing backend for the LaTeX biblatex package.",
     "homepage": "http://biblatex-biber.sourceforge.net/",
     "license": "Artistic-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Windows/biber-MSWIN64.zip",
-            "hash": "sha1:4d9bdf0476e457238f51f109069ec3ffddc32675"
+            "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/2.17/binaries/Windows/biber-MSWIN64.zip",
+	    "hash": "c103bffc5ae0a7f513e7c26b6d394e9be6cf41952959c5d604ee2e6581b5dea2"
         },
         "32bit": {
-            "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Windows/biber-MSWIN32.zip",
-            "hash": "sha1:26cf4d41c64bbf93cabaa7b6bf3292b067c7adb7"
+            "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/2.17/binaries/Windows/biber-MSWIN32.zip",
+	    "hash": "61e893fc72e9eb965c19e69c63e6b2c7ad3830b9f70bd92bb470d7d651a9a2ff"
         }
     },
     "bin": "biber.exe",
@@ -21,12 +21,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Windows/biber-MSWIN64.zip",
-                "hash": "sha1:4d9bdf0476e457238f51f109069ec3ffddc32675"
+                "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/2.17/binaries/Windows/biber-MSWIN64.zip",
+		"hash": "c103bffc5ae0a7f513e7c26b6d394e9be6cf41952959c5d604ee2e6581b5dea2"
             },
             "32bit": {
-                "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/current/binaries/Windows/biber-MSWIN32.zip",
-                "hash": "sha1:26cf4d41c64bbf93cabaa7b6bf3292b067c7adb7"
+                "url": "https://sourceforge.net/projects/biblatex-biber/files/biblatex-biber/2.17/binaries/Windows/biber-MSWIN32.zip",
+		"hash": "61e893fc72e9eb965c19e69c63e6b2c7ad3830b9f70bd92bb470d7d651a9a2ff"
             }
         }
     }
